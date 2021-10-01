@@ -5,7 +5,7 @@ Tongji University SSE Course Designs of Operating System.
 
 协议/License
 ------
-GNU Affero General Public License  (GNU AGPL v3)
+GNU General Public License  (GNU GPL v3)
 
 内容
 ------
