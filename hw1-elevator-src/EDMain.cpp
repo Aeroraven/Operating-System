@@ -515,7 +515,7 @@ void EDMain::edmDeployControls() {
 	edcpAuthor->iFontScale = 0.1f;
 	edcpAuthor->iFontWidth = 1;
 	edcpAuthor->vForeColor.edvSetColor(255, 0, 0);
-	edcpAuthor->sCaption = "By 1950641 Huang Zhiwen | Tongji SSE Operating System Homework 1";
+	edcpAuthor->sCaption = "By 195064x  | Tongji SSE Operating System Homework 1";
 	edcm->edcmAddControl(edcpAuthor);
 
 	//Elevator Labels
